@@ -1,4 +1,4 @@
-# Zeraki-Assesment-Test
+# Zeraki Assesment Test Solution
 Submission of the online assessment test. Testing programming capabilities in both Java and SQL
 # Array Folder is for Question 1
 I used netbeans IDE to create it as a project, same as ManipulateStrings below
